@@ -1,0 +1,14 @@
+# Secretos: NUNCA subir la clave de API
+.env
+
+# Entorno virtual
+.venv/
+venv/
+
+# Índice vectorial persistido
+storage/
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store

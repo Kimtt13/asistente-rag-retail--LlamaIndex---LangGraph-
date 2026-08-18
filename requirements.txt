@@ -1,0 +1,12 @@
+# --- RAG con LlamaIndex + Gemini (Día 1) ---
+llama-index>=0.11
+llama-index-llms-gemini>=0.3
+llama-index-embeddings-gemini>=0.2
+
+# --- Agente con LangGraph + Gemini (Día 2) ---
+langgraph>=0.2
+langchain>=0.3
+langchain-google-genai>=2.0
+
+# --- Utilidades ---
+python-dotenv>=1.0
